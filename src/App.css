@@ -1,0 +1,31 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+main {
+    margin-left: .625rem
+}
+
+section {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+    margin-top: 1.25rem;
+    color: blue;
+    text-decoration: underline;
+    
+}
+
+button {
+    margin-right: .625rem;
+    margin-top: .625rem;
+    padding: .3125rem;
+    cursor: pointer;
+    background-color: lightblue;
+    border-width: .3125rem;
+    border-color: lightcyan;
+    border-radius: .9375rem;
+    box-shadow: 0 .3125rem .625rem grey;
+}
